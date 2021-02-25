@@ -15,9 +15,9 @@ JSON Files:
 * You need to be on the second snapshot of the 2020.5 or more recent.
 
 ## Downloads/Install Instructions
-Downloads can be found on the [Release page of this repo](https://github.com/LexShadow/File-Manager-MCreator/releases).
-Offical version can be foundon there repo [here](https://github.com/Goldorion/File-Manager-MCreator).
-The plugin's MCreator page is [here](https://mcreator.net/plugin/64638/file-creator).
+Downloads can be found on the [Release page of this repo](https://github.com/LexShadow/File-Manager-MCreator/releases).  
+Offical version can be found on there repo [here](https://github.com/Goldorion/File-Manager-MCreator).  
+The plugin's MCreator page is [here](https://mcreator.net/plugin/64638/file-creator).  
 
 
 Before install make sure you uninstall 3.0 and blow versions, if the offical branch as been updated past our version please use that.
