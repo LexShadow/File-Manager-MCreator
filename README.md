@@ -24,7 +24,7 @@ Before install make sure you uninstall 3.0 and blow versions, if the offical bra
 Install like any other plugin: Launch MCreator -> Open preferences -> Manage plugins -> Load Plugin -> Find your downloaded zip file -> **Restart MCreator**.
 
 ## Credits/License
-Dev - Goldorion
+Dev - Goldorion  
 Tweaker - Miss Lexy Shadows
 
 Licensed under the GNU Lesser General Public License, version 2.1  
