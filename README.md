@@ -11,7 +11,7 @@ JSON Files:
 ![](https://i.imgur.com/owBAZYv.png)
 
 ## Important Information
-* This plugin supports Forge 1.14.4, 1.15.2 and 1.16.4.
+* This verion of the plugin supports 1.15.2 and 1.16.4.
 * You need to be on the second snapshot of the 2020.5 or more recent.
 
 ## Downloads/Install Instructions
