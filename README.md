@@ -2,7 +2,7 @@
 An unofficial version of the [File-Manager](https://github.com/Goldorion/File-Manager-MCreator) plugin for [MCreator](https://mcreator.net/) allowing you to create and read custom files.
 
 ## Disclaimer
-This project is not official. It is not affiliated with the respective owners and maintainers of [File-Manager](https://github.com/Goldorion/File-Manager-MCreator) [Minecraft](https://minecraft.net), or [MCreator](https://mcreator.net/). Do not expect any official support from their communities.
+This project is not official. It is not affiliated with the respective owners and maintainers of [File-Manager](https://github.com/Goldorion/File-Manager-MCreator), [Minecraft](https://minecraft.net), or [MCreator](https://mcreator.net/). Do not expect any official support from their communities.
 
 ## Features
 TXT Files:
