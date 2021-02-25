@@ -1,3 +1,13 @@
+# 3.0.0.1f
+**THIS IS NOT AN OFFICAL UPDATE
+Note: This fix will be reverted when the offical update as been
+released, don't run both versions of File Manager, you must use Goldorion
+or this one, don't use at the same time.
+Versions Supported in Edit: Forge 1.15.2, Forge 1.16.4
+* Added Get User Root procedure block
+* Changed Create a file variable named to use string type to open file path.
+
+
 # 3.0
 **THIS UPDATE IS NOT COMPATIBLE WITH THE LAST VERSIONS**
 Note: The plugin ID has been changed, so you can use an older version with this one.
